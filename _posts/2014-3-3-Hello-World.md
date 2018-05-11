@@ -1,10 +1,10 @@
 ---
-layout: post
-title: You're up and running!
+layout: Lintcode
+title: Sliding Windows
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This section includes the tricks that handle the sliding windows.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+#### Sliding Window Maximum
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Original Problem](https://www.lintcode.com/problem/sliding-window-maximum/description)
