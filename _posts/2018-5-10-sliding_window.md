@@ -1,5 +1,5 @@
 ---
-layout: Lintcode
+layout: post
 title: Sliding Windows
 ---
 
